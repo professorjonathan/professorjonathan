@@ -28,7 +28,7 @@
   <a href="https://github.com/professorjonathan"/>
 <img height="180px" src="https://github-readme-stats.vercel.app/api?username=professorjonathan&show_icons=true&theme=radical" />  
 <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=professorjonathan&layout=compact&theme=radical" />
-  div>
+  </div>
 
 ## 🌐 Contato
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-melo-dev/)
