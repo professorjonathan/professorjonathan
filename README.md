@@ -2,9 +2,9 @@
 ✨ _Transformando ideias em soluções digitais e explorando o mundo da tecnologia._ ✨  
 
 ## 🚀 Sobre mim  
-- 🔭 **Meu foco:** Desenvolvedor de Software especializado em **Oracle APEX** e **Frontend Web**, criando aplicações práticas e inovadoras.  
-- 🌱 **Minha jornada:** Apaixonado por aprendizado contínuo, estou sempre explorando novas tecnologias, aprimorando minhas habilidades e me desafiando a cada projeto.  
-- ⚡ **Fora do código:** Além de desenvolvedor, sou fã de **futebol**, entusiasta da **NBA**, e apaixonado por **motos**, sempre buscando novas aventuras.  
+🔭 **Meu foco:** Desenvolvedor de Software especializado em **Oracle APEX** e **Frontend Web**.  
+🌱 **Minha jornada:** Estou sempre explorando novas tecnologias, aprimorando habilidades e me desafiando a cada projeto.  
+⚡ **Fora do código:** Fã de **futebol**, entusiasta da **NBA**, e apaixonado por **motos**.  
 
 <div>
   <a href="https://github.com/professorjonathan"/>
