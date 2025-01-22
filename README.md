@@ -1,7 +1,6 @@
 # 👨‍💻 Olá, eu sou o Jonathan! 👋  
 ✨ _Transformando ideias em soluções digitais e explorando o mundo da tecnologia._ ✨  
 
-## 🚀 Sobre mim  
 🔭 **Meu foco:** Desenvolvedor de Software especializado em **Oracle APEX** e **Frontend Web**.  
 🌱 **Minha jornada:** Estou sempre explorando novas tecnologias, aprimorando habilidades e me desafiando a cada projeto.  
 ⚡ **Fora do código:** Fã de **futebol**, entusiasta da **NBA**, e apaixonado por **motos**.  
