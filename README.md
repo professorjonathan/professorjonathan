@@ -1,9 +1,10 @@
-# 👨‍💻 Olá, eu sou o Jonathan! 👋
-✨ _Transformando ideias em código_ ✨  
+# 👨‍💻 Olá, eu sou o Jonathan! 👋  
+✨ _Transformando ideias em soluções digitais e explorando o mundo da tecnologia._ ✨  
 
-- 🔭 **Foco:** Desenvolvedor de Software (Oracle APEX, Frontend Web)
-- 🌱 **Jornada:** Sempre explorando novas tecnologias e novos conhecimentos.
-- ⚡ **Hobby:** Futebol, NBA e Motos.
+## 🚀 Sobre mim  
+- 🔭 **Meu foco:** Desenvolvedor de Software especializado em **Oracle APEX** e **Frontend Web**, criando aplicações práticas e inovadoras.  
+- 🌱 **Minha jornada:** Apaixonado por aprendizado contínuo, estou sempre explorando novas tecnologias, aprimorando minhas habilidades e me desafiando a cada projeto.  
+- ⚡ **Fora do código:** Além de desenvolvedor, sou fã de **futebol**, entusiasta da **NBA**, e apaixonado por **motos**, sempre buscando novas aventuras.  
 
 <div>
   <a href="https://github.com/professorjonathan"/>
@@ -21,3 +22,10 @@
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
+# 👨‍💻 Olá, eu sou o Jonathan! 👋
+✨ _Transformando ideias em código_ ✨  
+
+- 🔭 **Foco:** Desenvolvedor de Software (Oracle APEX, Frontend Web)
+- 🌱 **Jornada:** Sempre explorando novas tecnologias e novos conhecimentos.
+- ⚡ **Hobby:** Futebol, NBA e Motos.
