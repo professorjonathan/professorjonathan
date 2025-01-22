@@ -24,8 +24,11 @@
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
 ## 📈 GitHub Stats
-![Jonathan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=professorjonathan&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=professorjonathan&layout=compact&theme=radical)
+<div>
+  <a href="https://github.com/professorjonathan"/>
+<img height="180px" src="https://github-readme-stats.vercel.app/api?username=professorjonathan&show_icons=true&theme=radical" />  
+<img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=professorjonathan&layout=compact&theme=radical" />
+  div>
 
 ## 🌐 Contato
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-melo-dev/)
