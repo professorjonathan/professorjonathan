@@ -21,10 +21,3 @@
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-
-# 👨‍💻 Olá, eu sou o Jonathan! 👋
-✨ _Transformando ideias em código_ ✨  
-
-- 🔭 **Foco:** Desenvolvedor de Software (Oracle APEX, Frontend Web)
-- 🌱 **Jornada:** Sempre explorando novas tecnologias e novos conhecimentos.
-- ⚡ **Hobby:** Futebol, NBA e Motos.
