@@ -1,13 +1,10 @@
 # 👨‍💻 Olá, eu sou o Jonathan! 👋
-
 ✨ _Transformando ideias em código_ ✨  
 
-## 🚀 Sobre mim
 - 🔭 **Foco:** Desenvolvedor de Software (Oracle APEX, Frontend Web)
 - 🌱 **Jornada:** Sempre explorando novas tecnologias e novos conhecimentos.
 - ⚡ **Hobby:** Futebol, NBA e Motos.
 
-## 📈 GitHub Stats
 <div>
   <a href="https://github.com/professorjonathan"/>
 <img height="180px" src="https://github-readme-stats.vercel.app/api?username=professorjonathan&show_icons=true&theme=radical" />  
